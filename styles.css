@@ -22,6 +22,9 @@ nav {
     font-style: italic;
     padding: 0 2rem;
 }
+.logo:hover{
+    background-color: #fff;
+}
 
 nav a {
     text-decoration: none;
